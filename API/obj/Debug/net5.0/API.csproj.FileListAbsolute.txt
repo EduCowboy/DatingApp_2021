@@ -54,3 +54,10 @@
 /Volumes/EduMac_External/Projects/DatingApp_2021/API/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
 /Volumes/EduMac_External/Projects/DatingApp_2021/API/bin/Debug/net5.0/Humanizer.dll
 /Volumes/EduMac_External/Projects/DatingApp_2021/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Volumes/EduMac_External/Projects/DatingApp_2021/API/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Volumes/EduMac_External/Projects/DatingApp_2021/API/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Volumes/EduMac_External/Projects/DatingApp_2021/API/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Volumes/EduMac_External/Projects/DatingApp_2021/API/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Volumes/EduMac_External/Projects/DatingApp_2021/API/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Volumes/EduMac_External/Projects/DatingApp_2021/API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Volumes/EduMac_External/Projects/DatingApp_2021/API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
